@@ -1,0 +1,57 @@
+
+/*
+Template Name: Eventoz	
+Author: MarkUps
+Author URI: http://www.markups.io/
+Version: 1.0
+*/
+
+
+/* Table of Content
+==================================================
+#BASIC TYPOGRAPHY
+#HEADER	
+#MENU 
+#ABOUT US
+#VIDEO
+#SCHEDULE
+#SPEAKERS
+#VENUE
+#PRICING PLANS
+#REGISTER FORM
+#FAQ
+#OUR
+#CONTACT US
+#FOOTER
+#RESPONSIVE STYLE
+*/
+
+
+/*--------------------*/
+/* BASIC TYPOGRAPHY */
+/*--------------------*/
+
+
+    
+
+
+
+
+body,
+html {
+	overflow-x:hidden;
+}
+
+body {
+
+	background: #a98834;
+	
+	background-image: url("ogol.jpg");
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-size: 95px 95px;
+	
+	font-family: 'Open Sans', sans-serif;
+
+	color: #1c1b1b;
+}
